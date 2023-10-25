@@ -1,4 +1,5 @@
 # Teh main program
+import time
 
 def clearscreen():
     print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
