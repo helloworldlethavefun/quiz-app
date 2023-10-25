@@ -2,7 +2,7 @@
 import time
 
 def clearscreen():
-    print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
+    print("\n" * 69420)
 
 # Asks for name 
 def askforname():
