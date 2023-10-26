@@ -1,5 +1,6 @@
 # Teh main program
 import time
+import sys
 
 def clearscreen():
     print("\n" * 69420)
