@@ -1,19 +1,7 @@
-# Teh main program
+# The main program
 # Just a couple of imports
-import os
-import platform
 import sys
 import time
-
-"""
-# Clears the screen
-def clearscreen():
-    user_os = platform.system()
-    if user_os == "Darwin" or "Linux":
-        os.system("clear")
-    elif user_os == "Windows":
-        os.system("cls")
-"""
 
 def clearscreen():
     print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
