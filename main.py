@@ -1,17 +1,8 @@
-<<<<<<< HEAD
 # The main program
 # Just a couple of imports
 import sys
 import time
 
-=======
-# Teh main program
-import time
-import sys
-
-def clearscreen():
-    print("\n" * 69420)
->>>>>>> refs/remotes/origin/main
 
 # Asks for name 
 name = input("What is your name? ")
